@@ -1,5 +1,5 @@
 # VFSGlobal Appointment Checker
-Regularly checks for visa appointments for specific visa centres in VFS Global Online Portal.
+Regularly checks for visa appointments in specific visa centres on VFS Global Online Portal.
 
 ## Usage
 - Add your account details through 'password.py' file.
