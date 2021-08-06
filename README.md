@@ -7,7 +7,7 @@ Regularly checks for visa appointments for specific visa centres in VFS Global O
 userid='your-email-goes-here'
 pw='your-password-goes-here'
 ```
-- Start the program and enter the captch manually.
+- Start the program and enter the captcha manually.
 - Click login.
 
 ## Different Centres
