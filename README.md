@@ -1,4 +1,4 @@
-# VFSGlobal Appointment Checker
+# Booking Visa Appointments with VFS Global
 The visa appointment booking process with VFS Global has become increasingly challenging due to high demand and limited availability. Consequently, individuals and companies are exploiting this situation by booking appointment slots in bulk and reselling them for profit. This creates unfair barriers for genuine applicants and undermines the integrity of the appointment system. By addressing such inefficiencies and exploitations in the current visa appointment booking system, this application democratizes access to visa appointments. It ensures that every applicant has a fair chance of securing a slot without falling prey to unethical practices, enhancing the user experience and restoring trust and transparency in the appointment booking process with VFS Global.
 
 # Need for the Application
